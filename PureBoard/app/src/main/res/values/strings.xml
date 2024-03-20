@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PureBoard</string>
+
+    <!--配置路由对应显示名称-->
+    <string name="route_canvas">画板</string>
+    <string name="route_album">画册</string>
+    <string name="route_setting">设置</string>
+    <string name="route_person">个人</string>
+
+    <!--SettingScreen-->
+    <string name="setting_title">全局设置</string>
+
+    <!--AlbumScreen-->
+    <string name="album_title">画册</string>
+</resources>
