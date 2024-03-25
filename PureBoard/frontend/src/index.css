@@ -9,12 +9,13 @@
 
     color-scheme: light dark;
     color: rgba(255, 255, 255, 0.87);
-    background-color: #242424;
+    background-color: rgb(247, 249, 250);
 
     font-synthesis: none;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+
 }
 
 body {
@@ -22,3 +23,28 @@ body {
     padding: 0;
 }
 
+.gradient-button {
+    background-color: var(--dodger-blue);
+    color: #fff;
+    background-image: linear-gradient(90deg, #2091f6, #21b568);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.gradient-button:hover {
+    background-color: var(--dodger-blue);
+    background-image: linear-gradient(90deg, #53aaf8, #30da82);
+}
+
+.Hcolor {
+    font-size: 22px;
+    color: rgb(34, 34, 34);
+}
+
+.Mcolor{
+    color: rgb(34, 34, 34);
+}
+
+.mt-custom {
+    margin-top: 4rem; /* 自定义顶部外边距大小 */
+}
