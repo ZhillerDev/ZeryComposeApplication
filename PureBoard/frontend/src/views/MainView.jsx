@@ -19,7 +19,7 @@ const MainView = () => {
 				</div>
 			</div>
 			<div className="md:w-1/2 mt-custom">
-				<img src="https://web-onx01.oss-cn-beijing.aliyuncs.com/show.png" alt="Your Image" />
+				<img src="https://web-onx01.oss-cn-beijing.aliyuncs.com/show.png" alt="Image" className="image-with-shadow" />
 			</div>
 		</div>
 	);

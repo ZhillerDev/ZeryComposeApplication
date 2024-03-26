@@ -48,3 +48,7 @@ body {
 .mt-custom {
     margin-top: 4rem; /* 自定义顶部外边距大小 */
 }
+
+.image-with-shadow {
+    box-shadow: 4px -4px 6px rgba(0, 0, 0, 0.2);
+  }
