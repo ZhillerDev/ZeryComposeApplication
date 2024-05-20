@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EspController</string>
+
+    <!--配置路由对应显示名称-->
+    <string name="route_home">主页</string>
+    <string name="route_bluetooth">蓝牙</string>
+    <string name="route_setting">设置</string>
+
+</resources>
